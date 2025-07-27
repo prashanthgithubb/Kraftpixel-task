@@ -1,0 +1,2 @@
+# Kraftpixel-task
+Comapny task 
